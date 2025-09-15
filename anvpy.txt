@@ -4,3 +4,11 @@ https://anvpy.org/
 
 #Commands
 pip install anv or CLI file
+
+#https://github.com/techAnvPy/AnvPy
+we can used below commands to manage projects.
+
+create:   create a new project
+run:      run your project in debug mode
+pause:    Automates back functionality
+logs:     Print all logs from python
